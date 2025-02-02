@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+pnpm-debug.log*
+.vscode/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+debug.log*
+out.log*
+error.log*
+
+# IDE and Editor settings
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
